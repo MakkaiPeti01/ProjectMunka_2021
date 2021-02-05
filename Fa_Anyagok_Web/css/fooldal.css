@@ -1,0 +1,27 @@
+.kontener{
+    max-width: 800px;
+    min-width: 500px;
+    
+    margin: auto;
+    background-color: rgba(86, 97, 250, 0.548);
+}
+h1{
+    text-align: center;
+}
+table{
+    max-width: 500px;
+    margin: auto;
+    border: 1px solid black;
+    
+}
+.bukk{
+    max-width: 200px;
+    float: right;
+    border-radius: 360px;
+    border: 5px white solid;
+    margin-right: 10px;
+}
+p{
+    margin-left: 10px;
+    width: 600px;
+}
